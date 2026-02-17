@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-wave",
+  "title": "Infinity Wave",
+  "emoji": "\ud83c\udf0a",
+  "purpose": "Captures ambient data waves. Converts noise to intel via inverse scattering. Wave-state memory.",
+  "tools": [
+    "Wave Capture",
+    "Signal Decoder",
+    "Memory Store",
+    "Pattern Analyzer"
+  ],
+  "color": "#00bcd4",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
